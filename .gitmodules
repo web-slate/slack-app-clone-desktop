@@ -1,0 +1,4 @@
+[submodule "app"]
+  path = src/app
+  url = git@github.com:web-slate/slack-app-clone-web.git
+  branch = main
