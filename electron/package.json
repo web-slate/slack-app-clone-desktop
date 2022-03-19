@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
-    "fetch:app": "git submodule update --init --recursive",
+    "fetch:app": "git submodule update –remote --init --recursive",
     "package": "electron-forge package",
     "make": "electron-forge make",
     "publish": "electron-forge publish",
