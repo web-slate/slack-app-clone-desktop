@@ -1,0 +1,4 @@
+[submodule "electron/src/app"]
+	path = electron/src/app
+	url = git@github.com:web-slate/slack-app-clone-web.git
+	branch = gh-pages
